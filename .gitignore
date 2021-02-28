@@ -1,6 +1,6 @@
+/public
 # dependencies
 /node_modules
-
 # env files
 .env.development
 .env.production
